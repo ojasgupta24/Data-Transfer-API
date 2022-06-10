@@ -38,8 +38,9 @@ Node.js, Express and MongoDB using mongoose
     - In query parameters pass in the name, type, breed and age as keys and write their               respective values in order to update them in our database
   - Select delete method on Postman to delete data with given id in our database
     - Write localhost:3000/api/pet/:petId in the url section  
-    - In path variables write key as petId and value as the id of the pet   
-  ##Screen-shots
-    ![Excel Image](https://user-images.githubusercontent.com/62804076/173081807-f8eaba82-d748-4e46-97e8-1b46d237c65b.png)
-  ![get all data from db](https://user-images.githubusercontent.com/62804076/173082237-71350433-f542-4b56-b5d0-1a46ae9c05a2.png)
+    - In path variables write key as petId and value as the id of the pet          
+  
+## Screen-shots
+![Excel Image](https://user-images.githubusercontent.com/62804076/173082722-a82c6274-c84f-45ce-a5fa-2a1c745e0731.png)
+![get all data from db](https://user-images.githubusercontent.com/62804076/173082237-71350433-f542-4b56-b5d0-1a46ae9c05a2.png)
 
