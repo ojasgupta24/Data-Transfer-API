@@ -26,6 +26,9 @@ Node.js, Express and MongoDB using mongoose
  - Inside the project folder place the pets.xlsx file i.e copy and paste your excel file to this folder with it's name as pets
  - run the server using nodemon app.js
   ## Parameters on Postman
-  - Select post method on Postman 
-    - Write localhost:3000 in the url section
-    - In the key column enter three keys namely title, description and page and their corresponding values  
+  - Select post method on Postman to post excel data to our database
+    - Write localhost:3000/api/pet in the url section
+  -Select get method on Postman to get data from our database
+    - Write localhost:3000/api/pet in the url section to get all of the data in our database
+    - Write localhost:3000/api/pet/:petId in the url section after that in path variables write key as petId and value as the id of the pet to find it in our database
+  
