@@ -27,5 +27,5 @@ Node.js, Express and MongoDB using mongoose
  - run the server using nodemon app.js
   ## Parameters on Postman
   - Select post method on Postman 
-   - Write localhost:3000 in the url section
-   - In the key column enter three keys namely title, description and page and their corresponding values  
+    - Write localhost:3000 in the url section
+    - In the key column enter three keys namely title, description and page and their corresponding values  
