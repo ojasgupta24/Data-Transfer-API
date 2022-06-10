@@ -30,8 +30,8 @@ Node.js, Express and MongoDB using mongoose
     - Write localhost:3000/api/pet in the url section         
   - Select get method on Postman to get data from our database
     - Write localhost:3000/api/pet in the url section to get all of the data in our database
-    - Write localhost:3000/api/pet/:petId in the url section 
-    -In path variables write key as petId and value as the id of the pet to find it in our            database      
+    - Write localhost:3000/api/pet/:petId in the url section   
+    - In path variables write key as petId and value as the id of the pet to find it in our            database      
   - Select patch method on Postman to update data with given id in our database
     - Write localhost:3000/api/pet/:petId in the url section  
     - In path variables write key as petId and value as the id of the pet   
