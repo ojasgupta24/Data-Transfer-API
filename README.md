@@ -27,7 +27,7 @@ Node.js, Express and MongoDB using mongoose
  - run the server using nodemon app.js
   ## Parameters on Postman
   - Select post method on Postman to post excel data to our database
-    - Write localhost:3000/api/pet in the url section
+    - Write localhost:3000/api/pet in the url section  
   -Select get method on Postman to get data from our database
     - Write localhost:3000/api/pet in the url section to get all of the data in our database
     - Write localhost:3000/api/pet/:petId in the url section after that in path variables write key as petId and value as the id of the pet to find it in our database
