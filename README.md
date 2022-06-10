@@ -13,3 +13,19 @@ An API that takes an excel file as input, parses it and stores the data in the d
 2. Type
 3. Breed
 4. Age
+
+## Tech stack to be used
+Node.js, Express and MongoDB using mongoose
+  
+ ## Setup Guide
+- Clone the project  
+- As this project is based on Node.js and mongoDB you have to download Node.js, Npm and MongoDB as prerequisites  
+- Go the project through the terminal and install all dependencies by   
+  - npm install
+  - npm install -g nodemon  
+ - Inside the project folder place the pets.xlsx file i.e copy and paste your excel file to this folder with it's name as pets
+ - run the server using nodemon app.js
+  ## Parameters on Postman
+  - Select post method on Postman 
+  - Write localhost:3000 in the url section
+  - In the key column enter three keys namely title, description and page and their corresponding values  
